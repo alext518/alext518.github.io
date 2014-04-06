@@ -1,4 +1,4 @@
-alext518.guthub.io
+alext518.github.io
 ==================
 
 My final project for WEB 115
