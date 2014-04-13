@@ -117,8 +117,7 @@ a:active {
 	margin-top: auto;
 	margin-bottom: auto;
 	align-content: center;
-	position: relative;
-	float: left;
+	position: absolute;
 }
 #navigation {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
