@@ -3,13 +3,13 @@
 h1 {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: 24px;
-	color: #FCFCFC;
+	color: #E6EC00;
 	text-align: center;
 	border: 0px none #000000;
 }
 #header {
-	border: 1px solid black;
-	background-color: #1B1B1B;
+	border: 1px solid blue;
+	background-color: #1810C4;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-left: auto;
@@ -23,8 +23,8 @@ h1 {
 	width: 480px;
 }
 #pageone {
-	border: 1px solid #727272;
-	background-color: #727272;
+	border: 1px solid #31A2D9;
+	background-color: #31A2D9;
 	height: 20px;
 	margin: auto;
 	margin-left: auto;
@@ -38,8 +38,8 @@ h1 {
 	width: 480px;
 }
 #pagetwo {
-	border: 1px solid #727272;
-	background-color: #727272;
+	border: 1px solid #31A2D9;
+	background-color: #31A2D9;
 	height: 20px;
 	margin: auto;
 	margin-left: auto;
@@ -52,8 +52,8 @@ h1 {
 	width: 480px;
 }
 #pagethree {
-	border: 1px solid #727272;
-	background-color: #727272;
+	border: 1px solid #31A2D9;
+	background-color: #31A2D9;
 	height: 20px;
 	margin: auto;
 	margin-left: auto;
@@ -67,31 +67,33 @@ h1 {
 }
 #footer {
 	border: 1px solid black;
-	background-color: #1B1B1B;
+	background-color: #1810C4;
 	margin: auto;
 	margin-left: auto;
 	margin-right: auto;
+
 	margin-bottom:: auto;
 	margin-top: auto;
 	padding-bottom: 15px;
 	padding-top: 15px;
 	width: 480px;
 	height: 50px;
+	position: static;
 }
 a {
-	color: #000000;
+	color: #0F25D7;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-family: 14pt;
 	text-decoration: none;
 	margin:auto;
 }
 a:hover {
-	color: #9B9B9B;
+	color: #EDFC00;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	text-align: center;
 }
 a:visited {
-	color: #D3D3D3;
+	color: #E5F120;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 a:active {
@@ -116,9 +118,13 @@ a:active {
 	margin-right: 480px;
 	margin-top: auto;
 	margin-bottom: auto;
+	align-content: center;
 }
 #navigation {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: 25px;
 	text-align: center;
+}
+iframe {
+	align-content: center;
 }
