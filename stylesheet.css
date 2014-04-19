@@ -1,5 +1,6 @@
 @charset "utf-8";
 /* CSS Document For Final Project*/
+/*This is the stylesheet that I used for all my documents throughout my website, all the styling comes directly for here. I chose to do that because I wanted to keep the site looking consistent and make sure there weren't too many variances throughout the pages as people are looking through it */
 h1 {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: 24px;
